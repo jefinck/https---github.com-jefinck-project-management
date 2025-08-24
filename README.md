@@ -1,0 +1,1 @@
+The College Project Management System is a web-based platform designed to streamline and manage academic projects within a college environment. The system provides a centralized interface for three primary user roles: Admin, Faculty, and Students, each with specific functionalities tailored to their needs.
